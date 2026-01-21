@@ -1,0 +1,13 @@
+{
+    "name": "Lucky Green Casino: Play Legal Pokies in AU | Join Now",
+    "short_name": "Lucky Green Casino",
+    "description": "Lucky Green Casino: Join Australia's premier legal site for 5,000+ pokies and instant payouts. | Virtual Gaming Hub & Sign Up. Start your winning journey!",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/images/fav.png",
+            "type": "image/png"
+        }
+    ]
+}
